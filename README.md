@@ -55,7 +55,7 @@ Você pode apresentar o resultado tanto no **console** quanto em um **alerta** n
 
 10. Crie um script que declare uma variável e verifique se o seu valor é um número ímpar. Se for, exiba a mensagem "É um número ímpar", caso contrário, exiba a mensagem "Não é um número ímpar".
 
-- [Acesse o projeto finalizado, online](https://rogeriolins.github.io/explorer-desafio-js-proposto-01)
+- [Acesse o projeto finalizado, online](https://rogeriolins.github.io/projeto09-intensivao-js)
 
 - [Assistir aulas](https://www.rocketseat.com.br/formacao/fullstack?utm_source=github&utm_medium=explorer-projeto-intensivao-js-02&utm_campaign=capture-explorer&utm_term=organic&utm_content=descricao-github-rogeriolins)
 
